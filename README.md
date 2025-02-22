@@ -62,4 +62,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](https
 
 Se você tiver alguma dúvida ou quiser entrar em contato, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/ranyreinaldo) ou enviar um e-mail para [ranilson.reinaldo@gmail.com](mailto:ranilson.reinaldo@gmail.com).
 
-#### Obrigado por visitar meu repositório! Espero que você encontre os exemplos e projetos úteis para o seu aprendizado em Terraform.
+#### Obrigado por visitar meu repositório! Espero que você encontre os exemplos e projetos úteis para o seu aprendizado em Terraform..
